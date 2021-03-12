@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014185368914",
+    "project_id": "deephospital-9bf20",
+    "storage_bucket": "deephospital-9bf20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014185368914:android:450bbcf7673e8e6d046e8b",
+        "android_client_info": {
+          "package_name": "com.deepdevs.deephospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014185368914-innlq9ebpah5l8lbo3jcq01l3m7tdevo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2CikuxNYKk2BPjYKsOm-N6ff5jCcnA38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014185368914-innlq9ebpah5l8lbo3jcq01l3m7tdevo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
